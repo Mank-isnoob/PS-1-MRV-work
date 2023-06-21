@@ -52,4 +52,4 @@ The project acknowledges the support and guidance received from the research adv
 
 This project report summarizes the research, methodology, experimental results, and future plans of the V2X pedestrian safety system. It highlights the significance of object classification, collision possibility assessment, and alert generation in ensuring the safety of pedestrians in road traffic. The proposed methodology, utilizing YOLO and V2X communication, presents an effective approach to address pedestrian safety concerns.
 
-Word Count: 500
+
