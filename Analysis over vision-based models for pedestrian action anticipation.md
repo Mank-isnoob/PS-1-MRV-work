@@ -1,4 +1,4 @@
-#Analysis over vision-based models for pedestrian action anticipation
+# Analysis over vision-based models for pedestrian action anticipation
 
 ##Models and their comparision based on their performance
 
